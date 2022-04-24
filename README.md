@@ -1,5 +1,5 @@
 # SNCF bot tickets finder
-## You won't have an excuse not to go in vacations (hein, Fran�ois ?)
+## You won't have an excuse not to go in vacations (hein, François ?)
 
 
 
