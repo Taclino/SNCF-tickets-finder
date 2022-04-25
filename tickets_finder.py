@@ -30,7 +30,7 @@ data = {
 def look_for_tickets():
 
     prices = []
-
+    data["search"]["arrival_station_id"] = arrival_station_id
     post_data = json.dumps(data)
     ret = requests.post(url="https://www.trainline.eu/api/v5_1/search",
                         data=post_data, headers=headers)
